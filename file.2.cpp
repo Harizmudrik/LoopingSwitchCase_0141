@@ -22,4 +22,7 @@ int main () {
         perulanganWhile++;
     }
 
+    cout << "Nilai X terkahir = " << x << endl;
+    cout << "Jumlah Perulangan = " << perulanganWhile << endl;
+
 }
